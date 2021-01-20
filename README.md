@@ -2,7 +2,7 @@
 
 Default credentials :-
 
-        Username : ubuntu
+        Username : centos
         Password : 1234
         Default port 3000
 
